@@ -1,0 +1,24 @@
+html {
+  background-color: #efefef;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.table {
+  text-align: left;
+}
+
+.input-wrapper {
+  padding: 1rem;
+  display: flex;
+  justify-content: flex-start;
+  border-width: 2px;
+  border-style: solid;
+}
+
+input {
+  margin-left: 0.5rem;
+}
